@@ -1,6 +1,4 @@
-/*Name: Samana Shrestha
- *Lab 11
- * 
+/*
  * This class opens a window on the screen that has a an orange ball. The ball
  * moves around the screen and bounces off of the side and top edges of the 
  * screen. There is a gray paddle at the bottom of the screen that moves with 
